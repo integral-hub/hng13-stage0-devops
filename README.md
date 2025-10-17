@@ -12,4 +12,4 @@ The purpose of this task is to showcase practical DevOps skills and the ability 
 
 ## 🌐 Deployment Info
 
-- **Server IP / Domain:** _To be added after deployment_
+- **Server IP / Domain:** 13.49.243.22
